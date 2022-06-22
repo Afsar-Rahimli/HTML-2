@@ -1,0 +1,24 @@
+ .header { 
+justify-content: space-between;
+align-items: center;
+ }
+ .nav-links {
+    background-color: #DA0000;
+ 
+ ;justify-content: space-between;
+ }
+.nav-links a {
+   color: #ffffff;
+   padding: 15px;
+  justify-content: center;
+  text-decoration: none;
+  
+}
+.search-logo{width: 25px;
+   height: 20px;
+   object-fit: contain;
+   padding: 5px;
+}
+* {
+   font-family: 'Source Sans Pro', sans-serif;
+}
